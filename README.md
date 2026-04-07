@@ -12,8 +12,8 @@ I build responsive web applications with a focus on clean UI, performance, and m
 React.js · JavaScript (ES6+) · Tailwind CSS · Framer Motion · Vite · Git
 
 ### Featured Work
-- **BlueWave Café v2.0** — Scalable React app with reusable components, API integration, and performance optimization (98 PageSpeed)
-- **TechTalks DevBounty** — Pixel-accurate landing page built with React, Tailwind CSS, and Framer Motion
+- **[BlueWave Café v2.0](https://github.com/chko0/bluewave-cafe)** — Scalable React app with reusable components, API integration, and performance optimization (98 PageSpeed)
+- **[TechTalks DevBounty](https://github.com/chko0/devbounty-techtalks-1)** — Pixel-accurate landing page built with React, Tailwind CSS, and Framer Motion
 
 ### Contact
 - Email: chadi.kouzayha@gmail.com
