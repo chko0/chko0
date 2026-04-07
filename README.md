@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**chko0/chko0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chadi, a Frontend Developer (React.js) based in Lebanon.
 
-Here are some ideas to get you started:
+I build responsive web applications with a focus on clean UI, performance, and maintainable code. I enjoy turning ideas into shipped products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Developing React applications and improving UI architecture
+- Learning Next.js and modern frontend patterns
+
+### Tech Stack
+React.js · JavaScript (ES6+) · Tailwind CSS · Framer Motion · Vite · Git
+
+### Featured Work
+- **BlueWave Café v2.0** — Scalable React app with reusable components, API integration, and performance optimization (98 PageSpeed)
+- **TechTalks DevBounty** — Pixel-accurate landing page built with React, Tailwind CSS, and Framer Motion
+
+### Contact
+- Email: chadi.kouzayha@gmail.com
+- LinkedIn: https://linkedin.com/in/chadikouzayha
